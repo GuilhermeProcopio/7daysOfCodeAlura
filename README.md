@@ -1,2 +1,4 @@
 # 7daysOfCodeAlura
-Desafio da alura de 7 dias
+Challenge of 7 days of code
+
+Day 1 - Consume an API of IMDB
