@@ -1,10 +1,11 @@
 # 7daysOfCodeAlura
 Challenge of 7 days of code
-
-Day 1 - Consume an API of IMDB / Done
-Day 2 - ?
-Day 3 - ?
-Day 4 - ?
-Day 5 - ?
-Day 6 - ?
-Day 7 - ?
+<ul>
+  <li>Day 1 - Consume an API of IMDB / Done</li>
+  <li>Day 2 - ?</li>
+  <li>Day 3 - ?</li>
+  <li>Day 4 - ?</li>
+  <li>Day 5 - ?</li>
+  <li>Day 6 - ?</li>
+  <li>Day 7 - ?</li>
+</ul>
